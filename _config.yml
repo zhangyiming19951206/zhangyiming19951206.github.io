@@ -1,29 +1,29 @@
-# Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+# Site setting
+title: BY Demons。
+SEOTitle: 张益达的博客 | BY Blog
+header-img: img/782685.jpg
+email: 1004514270@qq.com
+description: "Every failure is leading towards success. && 湖人总冠军🏆"
+keyword: "BY, BY Demons。, 张益达的博客, 张益达, 张益铭, iOS, Apple, iPhone"
+url: "http://zhangyiming.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Goals determine what you going to be! && You will be the king！"
+sidebar-avatar: /img/782681.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+zhihu_username:     zhangyiming
+github_username:    zhangyiming19951206
+facebook_username:  zhangyiming
+jianshu_username:   zhangyiming
+#twitter_username:   zhangyiming
 
 
 
